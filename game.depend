@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1676835491 source:d:\code blok algorithme\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+
