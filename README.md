@@ -1,5 +1,5 @@
 # Space X - SDL 2 Game
-
+ 
 ## Description
 **Space X** is an engaging and strategic game developed using the SDL 2 library, where players are tasked with connecting points on a matrix by drawing lines. Each point in the matrix has a specific number of connections it requires, and players must strategically connect these points to fulfill the connection requirements.
 
